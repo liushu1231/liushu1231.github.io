@@ -1,4 +1,4 @@
 githubBlog
 ==========
 
-my own github bog's source code
+my own github blog's source code
